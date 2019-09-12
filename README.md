@@ -675,7 +675,7 @@ One of the TA's / course instructors will answer you A.S.A.P.
 Yes, and this is preferred and faster than e-mailing.
 You can always drop by (open door policy):
 
-* TA's : HB.10.230/240
+* TA's : HB.10.230/240/050
 * Course Instructor : HB.10.030
 
 However, if you want to make sure that we are available, you should make
