@@ -1,4 +1,4 @@
-# Advanced Computing Systems 2018-2019 Lab 1 - Matrix Multiplication
+# Advanced Computing Systems 2019-2020 Lab 1 - Matrix Multiplication
 
 This repository contains all files and explanations needed to perform
 the first lab of the EE4C07 - Advanced Computing Systems course at the
