@@ -273,7 +273,7 @@ up with your TU Delft e-mail account.
 ## Where do I get the baseline project?
 
 ```console
-git clone https://github.com/acstud/lab1.git
+git clone https://github.com/tahashmi/lab1.git
 ```
 
 ## How do I compile and run the baseline project?
