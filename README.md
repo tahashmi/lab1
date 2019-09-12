@@ -112,8 +112,9 @@ cluster.
 The names of these nodes are:
 
 ```
-insy-node05
-insy-node06
+ssh login1.hpc.tudelft.nl
+ssh login2.hpc.tudelft.nl
+ssh login3.hpc.tudelft.nl
 ```
 
 Although possible, you do not necessarily have to debug all parts of your 
