@@ -112,9 +112,8 @@ cluster.
 The names of these nodes are:
 
 ```
-ssh login1.hpc.tudelft.nl
-ssh login2.hpc.tudelft.nl
-ssh login3.hpc.tudelft.nl
+insy-node05
+insy-node06
 ```
 
 Although possible, you do not necessarily have to debug all parts of your 
@@ -145,8 +144,9 @@ ssh <netid>@student-linux.tudelft.nl
 From there, log in to __one__ of the login nodes:
 
 ```console
-ssh insy-login
-ssh sanger
+ssh login1.hpc.tudelft.nl
+ssh login2.hpc.tudelft.nl
+ssh login3.hpc.tudelft.nl
 ```
 
 While the course is busy and many people are building, you might want to switch
@@ -297,7 +297,8 @@ command line).
 Now you can build it with:
 
 ```console
-make
+makeinsy-node05
+insy-node06
 ```
 
 And run it with
