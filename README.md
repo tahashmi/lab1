@@ -279,7 +279,7 @@ git clone https://github.com/tahashmi/lab1.git
 ## How do I compile and run the baseline project?
 
 A CMake script has been supplied with the baseline project.
-If you have the baseline project in some directory, and you are in that
+If you have the baseline project in some directory, and you are in that (baseline)
 directory, you can run the following:
 
 ```console
