@@ -297,8 +297,7 @@ command line).
 Now you can build it with:
 
 ```console
-makeinsy-node05
-insy-node06
+make
 ```
 
 And run it with
